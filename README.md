@@ -1,7 +1,10 @@
 # Schematic-Frankenstein
 I frankensteined both from ocelarrisdesigns over on Tumblr (Schematic Designs and Sakura). Works well on both mobile and PC.
 # Preview
-! [Screenshot 2026-11-24 204244.png] (Screenshot 2026-11-24 204244.png)
+<img width="1920" height="1079" alt="Screenshot 2026-11-24 204244" src="https://github.com/user-attachments/assets/5b20fb34-a33a-452b-ab68-81ef5009e4a9" />
+<img width="1920" height="1079" alt="Screenshot 2026-11-24 204317" src="https://github.com/user-attachments/assets/a58d2a36-4027-4e03-b44a-8e90eb3322f1" />
+<img width="1920" height="1079" alt="Screenshot 2026-11-24 204520" src="https://github.com/user-attachments/assets/f7483fd3-1ff6-40d5-bd03-f3d5931914bf" />
+<img width="1920" height="1079" alt="Screenshot 2026-11-24 204501" src="https://github.com/user-attachments/assets/90836bab-b282-4d6b-86a0-4dd7e0b07bcf" />
 
 ## How to Install on AO3
 
@@ -11,9 +14,11 @@ I frankensteined both from ocelarrisdesigns over on Tumblr (Schematic Designs an
 3. Fill in the details:
    * **Title:** `[YourUsername] Beige Schematic` or `[YourUsername] Blue Schematic` *(Skin titles on AO3 must be unique!)*
    * **CSS:** Copy and paste the full CSS code for the theme you want.
+
 4. Click **Submit** (or **Update**). If you are only using one theme, click **Use** and you're done!
 
 ---
+
 
 ### 2. Optional: Auto-Switch Between Light & Dark Mode
 *Note: You must create **both** the Beige Schematic and Blue Schematic skins from Step 1 for this to work.*
