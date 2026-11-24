@@ -1,7 +1,7 @@
 # Schematic-Frankenstein
 I frankensteined both from ocelarrisdesigns over on Tumblr (Schematic Designs and Sakura). Works well on both mobile and PC.
 # Preview
-
+! [Screenshot 2026-11-24 204244.png]
 
 ## How to Install on AO3
 
